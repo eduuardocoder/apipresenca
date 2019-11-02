@@ -1,6 +1,6 @@
 gunicorn
 django-heroku
-Django==2.1.7
+Django==2.1.11
 djangorestframework==3.9.4
 
 
